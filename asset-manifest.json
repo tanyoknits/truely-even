@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/truly-even/static/css/main.d83af84f.css",
-    "main.js": "/truly-even/static/js/main.a4d8ff32.js",
+    "main.js": "/truly-even/static/js/main.e410f835.js",
     "index.html": "/truly-even/index.html",
-    "main.a4d8ff32.js.map": "/truly-even/static/js/main.a4d8ff32.js.map"
+    "main.e410f835.js.map": "/truly-even/static/js/main.e410f835.js.map"
   },
   "entrypoints": [
     "static/css/main.d83af84f.css",
-    "static/js/main.a4d8ff32.js"
+    "static/js/main.e410f835.js"
   ]
 }
