@@ -1,2 +1,2 @@
-# truely-even
+# truly-even
 Knitting increase/decrease calculator
